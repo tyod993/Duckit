@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DuckIt</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email_incorrect">Please enter a valid email.</string>
+    <string name="password_too_short">Please enter a password at least 3 characters long.</string>
+    <string name="incorrect_pw">The password you input was incorrect. Please fix and try again.</string>
+    <string name="account_not_found">The email you entered is not attached to an existing account. If the email is correct please press sign up and try again.</string>
+    <string name="unknown_error">I Have no idea what just happened. I think a solar flare just knocked out the server. Or the AI has finally taken control. Or maybe its aliens, who knows? Either way the backend team didnt give me any valuable error codes to help fix this for you. SOOOOO good luuuuuuuck mwuahahahahaha.</string>
+    <string name="account_exists">An account using that email already exists. Please try another email.</string>
+</resources>
